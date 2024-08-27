@@ -1,0 +1,128 @@
+.e3x5tflx0aso-a5-1-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 121px;
+  max-height: 100%;
+  width: 1210px;
+  object-fit: cover;
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.vector-icon {
+  position: absolute;
+  top: 312px;
+  left: 51px;
+  width: 498px;
+  height: 200px;
+  z-index: 2;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-22xl);
+  background-color: var(--color-mediumorchid);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.iniciar-sesin {
+  position: absolute;
+  top: 19px;
+  left: 140px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 108px;
+  z-index: 1;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-mediumorchid);
+  position: absolute;
+  top: 576px;
+  left: 106px;
+  border-radius: var(--br-22xl);
+  width: 388px;
+  height: 60px;
+  z-index: 2;
+}
+.facebook-icon,
+.instagram-icon,
+.twitter-squared-icon,
+.youtube-play-button {
+  position: absolute;
+  top: 700px;
+  left: 384px;
+  width: 50px;
+  height: 100px;
+  object-fit: cover;
+  z-index: 2;
+}
+.instagram-icon,
+.twitter-squared-icon,
+.youtube-play-button {
+  left: 434px;
+}
+.instagram-icon,
+.youtube-play-button {
+  left: 484px;
+}
+.instagram-icon {
+  top: 725px;
+  left: 539px;
+  height: 50px;
+}
+.las-cookies-deben {
+  position: absolute;
+  top: 742px;
+  left: 30px;
+  font-weight: 300;
+  z-index: 2;
+}
+.rectangle-container {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 640px;
+  z-index: 1;
+}
+.main {
+  height: 800px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: 13px;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}

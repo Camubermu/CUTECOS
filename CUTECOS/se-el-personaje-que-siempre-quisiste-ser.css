@@ -1,0 +1,14 @@
+.se-el-personaje {
+  width: 500.9px;
+  font-size: 20px;
+  line-height: 24px;
+  font-family: var(--font-elsie-swash-caps);
+  color: var(--color-violet);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 67.6px;
+  transform: rotate(0.1deg);
+  transform-origin: 0 0;
+}

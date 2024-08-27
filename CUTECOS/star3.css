@@ -1,0 +1,7 @@
+.star-div {
+  width: 54px;
+  background-color: var(--color-gainsboro);
+  height: 49px;
+  transform: rotate(123.7deg);
+  transform-origin: 0 0;
+}
